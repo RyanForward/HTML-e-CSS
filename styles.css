@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    background-repeat: none;
+    background-size: auto;
+}
+
+
+#header {
+    font-size: 5vw;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: white;
+    text-shadow: 20px 1px rgb(27, 27, 27);
+    position: absolute;
+    left: 300px;
+    margin: 20px auto;
+}
+
+#image-person{
+    position: absolute;
+    right: 300px;
+    top: 110px;
+    margin: 20px auto;
+}
